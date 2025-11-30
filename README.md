@@ -8,6 +8,8 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 <img width="1278" height="606" alt="image" src="https://github.com/user-attachments/assets/f40a53ba-0a40-40f4-aae5-ccf496d4a420" />
 
 # NETWORK DIAGRAM:
+<img width="866" height="572" alt="image" src="https://github.com/user-attachments/assets/8b57f3a4-4df0-4161-8934-9595ba4abd19" />
+
 # PROCEDURE:
 ```
 STEP 1: Open a Packet Tracer Software.
@@ -85,7 +87,9 @@ R 192.168.1.0 [120/1] via 192.168.2.1, 00:00:00, FastEthernet0/0
 R 192.168.2.0 [120/1] via 192.168.2.1, 00:00:00, FastEthernet0/0
 ```
 # OUTPUT
+<img width="1043" height="609" alt="image" src="https://github.com/user-attachments/assets/ae20ec84-84fc-4611-a3e1-8e61a475e485" />
 
+<img width="993" height="588" alt="image" src="https://github.com/user-attachments/assets/0687b8c5-7381-42e6-9116-f3ee27cab93d" />
 
 
 # RESULT:
