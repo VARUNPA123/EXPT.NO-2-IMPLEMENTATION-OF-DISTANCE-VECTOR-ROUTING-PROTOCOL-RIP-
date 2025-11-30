@@ -1,29 +1,24 @@
 # EXPT.NO-2-IMPLEMENTATION-OF-DISTANCE-VECTOR-ROUTING-PROTOCOL-RIP
 # AIM:
-
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 # EQUIPMENTS REQUIRED:
-
-
+<img width="1260" height="336" alt="image" src="https://github.com/user-attachments/assets/dd9ad56e-262b-479c-8248-a468198ab560" />
 
 # IP ASSIGNMENT:
-
-
+<img width="1278" height="606" alt="image" src="https://github.com/user-attachments/assets/f40a53ba-0a40-40f4-aae5-ccf496d4a420" />
 
 # NETWORK DIAGRAM:
 # PROCEDURE:
-
-STEP 1: Open a Packet Tracer Software.
-STEP 2: Drag two 2900 Switches, two Cisco 1800 Routers, four PC Terminals from tool barand drop it in work area.
-STEP 3: Connect all the PC Terminals and Routers through Switches as shown in the networkdiagram using CAT 6 Patch cables.
-STEP 4: Configure IP address and Gateway in all PC Terminals.
-STEP 5: Configure ROUTER0 and restart ROUTER0.
-STEP 6: Configure ROUTER1 and restart ROUTER1.
-STEP 7: Verify the connectivity between PC Terminals in different networks using Pingcommand.
+1. Open a Packet Tracer Software.
+2. Drag two 2900 Switches, two Cisco 1800 Routers, four PC Terminals from tool barand drop it in work area.
+3. Connect all the PC Terminals and Routers through Switches as shown in the networkdiagram using CAT 6 Patch cables.
+4. Configure IP address and Gateway in all PC Terminals.
+5. Configure ROUTER0 and restart ROUTER0.
+6. Configure ROUTER1 and restart ROUTER1.
+7. Verify the connectivity between PC Terminals in different networks using Pingcommand.
 After This follow the given procedure
-1. Assign IP Addresses to PCs
-•	For each PC, go to Desktop > IP Configuration and assign:
-o PC0: 192.168.1.2, Subnet Mask: 255.255.255.0, Gateway: 192.168.1.1
+• Assign IP Addresses to PCs
+•	For each PC, go to Desktop > IP Configuration and assign:PC0: 192.168.1.2, Subnet Mask: 255.255.255.0, Gateway: 192.168.1.1
 o PC1: 192.168.1.3, Subnet Mask: 255.255.255.0, Gateway: 192.168.1.1
 o PC2: 192.168.2.2, Subnet Mask: 255.255.255.0, Gateway: 192.168.2.1
 o PC3: 192.168.3.2, Subnet Mask: 255.255.255.0, Gateway: 192.168.3.1
